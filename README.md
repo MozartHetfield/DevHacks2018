@@ -4,7 +4,7 @@
 
 As we all know, all the common ideeas will try to make a better collaboration between Metro and the consumers, or Metro and the producers. In this application, we wanted to emphasize the bond between consumers and producers, granting them a great opportunity to improve their experience, all thanks to Metro. The interraction is based on a review-reward application, when the customer is able to access all the purchase history in the last month, using his matro card, and to rate the products in terms of price and quality. Using this feature, 
 the author of the rate will be given an amout of virtual coins which will help him to earn promotion products. Also, the reward system is
-bifunctional, because the producers will be sorted using their personal rating, which will be increased or decreased based on the user's reviews. If one of them has a rating that is beyond a limit, they will receive special offers too. By rating the producers, we will have a better knowledge about the quality of the products. By this result and by giving our reviewers a special prize for their contribution, we will keep them close to your shop. After a long time, we will collect data of products 
+bifunctional, because the producers will be sorted using their personal rating, which will be increased or decreased based on the user's reviews. If one of them has a rating that is beyond a limit, they will receive special offers too. By rating the producers, we will have a better knowledge about the quality of the products. By this result and by giving our reviewers a special prize for their contribution, we will keep them close to the shop. After a long time, we will collect data that helps improving the understanding of customer's needs. 
 
     Opportunities to advance
     
