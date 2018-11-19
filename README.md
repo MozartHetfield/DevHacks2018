@@ -13,7 +13,7 @@ bifunctional, because the producers will be sorted using their personal rating, 
   - scanning the bar code on the receipt to keep the procedure more simple;
   - extending the knowledge area of the customer, being able to see where the product that he bought are made, together with some information about the producers (the safety of the products in our client's minds is one of the most important things to consider);
   - collecting data about what motivates and what is considered more valuable by our customers, so we can extand the application into a global one, granting access to other big supermarkets for a fee, all being coordinated by Metro systems;
-  - suggestions for products based on your previous purchases or the things you like/do in general;
+  - suggestions for products based on your previous purchases or the things you like/do in general.
   
         Notes
     
